@@ -1,7 +1,7 @@
 import React from 'react'
 
-export const Todo = () => {
+export const TodoForm = () => {
     return (
-        <div>Todo</div>
+        <div>TodoForm</div>
     )
 }
